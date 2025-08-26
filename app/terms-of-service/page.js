@@ -89,7 +89,7 @@ export default function TermsOfServicePage() {
                 <li>Review all recommendations and documentation carefully</li>
                 <li>Make investment decisions based on your own judgment</li>
                 <li>Pay fees and charges in a timely manner</li>
-              </div>
+              </ul>
 
               <h2>8. Investment Risks and Disclaimers</h2>
               <p>
