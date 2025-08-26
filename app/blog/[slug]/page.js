@@ -162,9 +162,9 @@ export default function BlogPostPage({ params }) {
                 </div>
               </div>
               <div className="ml-8 flex items-center space-x-4 text-sm">
-                <span>{post.date}</span>
-                <span>•</span>
-                <span>{post.readTime}</span>
+                <li>• Large Cap Equity Funds</li>
+                <li>• Mid Cap Equity Funds</li>
+                <li>• ELSS (Tax Saving)</li>
               </div>
             </div>
             <div className="bg-gray-200 h-64 md:h-80 rounded-lg flex items-center justify-center mb-8">
@@ -250,8 +250,9 @@ export default function BlogPostPage({ params }) {
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
             Ready to Start Your Investment Journey?
           </h2>
-          <p className="text-xl mb-8">
-            Get personalized advice from our financial experts
+          <p className="text-blue-800">
+            For specific data protection inquiries, you can contact our Data Protection Officer at 
+            <a href="mailto:dpo@moneyandme.com" className="underline ml-1">dpo@moneyandme.com</a>
           </p>
           <CTAButton href="/get-started" variant="outline" size="lg">
             Get Expert Guidance

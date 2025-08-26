@@ -17,8 +17,8 @@ export default function TestimonialCard({ name, role, company, content, rating =
         </div>
       </div>
       
-      <blockquote className="text-gray-700 mb-6 italic">
-        "{content}"
+      <blockquote>
+        <p className="text-gray-600 mb-4 italic">"{content}"</p>
       </blockquote>
       
       <div className="flex items-center">

@@ -60,8 +60,9 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Our Mission</h3>
               <p className="text-gray-600">
-                To empower individuals and families to achieve financial freedom through personalized guidance, 
-                innovative solutions, and unwavering commitment to their success.
+                We're dedicated to helping individuals and families achieve their financial goals through 
+                personalized wealth management and "smart money" strategies. Our team's expertise spans 
+                across investment advisory, tax planning, and comprehensive financial planning.
               </p>
             </div>
             <div className="text-center">
@@ -80,8 +81,9 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Excellence</h3>
               <p className="text-gray-600">
-                We continuously strive for excellence in service delivery, staying updated with market trends 
-                and regulatory changes to provide the best advice.
+                We don't just manage money; we build lasting relationships based on trust, transparency, 
+                and results. Every client's journey is unique, and we're committed to providing tailored 
+                solutions that align with your specific needs and aspirations.
               </p>
             </div>
           </div>
@@ -140,8 +142,8 @@ export default function AboutPage() {
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Sneha Agarwal</h3>
               <p className="text-blue-600 font-medium mb-3">Head of Tax Planning</p>
               <p className="text-gray-600 text-sm">
-                Chartered Accountant with 12+ years experience. Expert in tax optimization strategies and 
-                regulatory compliance. Helps clients save thousands in taxes annually.
+                Chartered Accountant with 12+ years experience in tax planning and compliance. 
+                Helps clients optimize their tax strategies while ensuring full regulatory compliance.
               </p>
             </div>
             <div className="text-center">
